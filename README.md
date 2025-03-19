@@ -1,1 +1,1 @@
-# My first project (It's a movie project)
+# My first project (It's a movie app)
